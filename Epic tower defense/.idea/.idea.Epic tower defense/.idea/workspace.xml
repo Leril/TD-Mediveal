@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abcdac51-9f98-488d-8944-fe5eca99517a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/DSB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/DSB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/backImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/backImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/downImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/downImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/frontImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/frontImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/leftImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/leftImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/rightImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/rightImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/upImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/upImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/backImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/backImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/downImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/downImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/frontImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/frontImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/leftImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/leftImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/rightImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/rightImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/upImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/upImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/DSG.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/DSG.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/backImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/backImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/downImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/downImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/frontImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/frontImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/leftImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/leftImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/rightImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/rightImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/upImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/upImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/backImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/backImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/leftImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/leftImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/rightImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/rightImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/upImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/upImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/DSR.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/DSR.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/backImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/backImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/downImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/downImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/frontImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/frontImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/leftImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/leftImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/rightImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/rightImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/upImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/upImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/backImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/backImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/downImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/downImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/frontImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/frontImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/leftImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/leftImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/rightImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/rightImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/upImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/upImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/StarSkyBox.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/StarSkyBox.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/backImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/backImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/downImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/downImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/frontImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/frontImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/leftImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/leftImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/rightImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/rightImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/upImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/upImage.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Globalpp.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Globalpp.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Materials/Skybox.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Materials/Skybox.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Prefabs/Post Processing.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Prefabs/Post Processing.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Galaxy fight/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Galaxy fight/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2ERW7ZbeO19sivPBgH37ntw98QY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1662558713589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662558713589</updated>
+      <workItem from="1662558736899" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
