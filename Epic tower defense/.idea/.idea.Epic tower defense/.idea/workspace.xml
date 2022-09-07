@@ -1,213 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abcdac51-9f98-488d-8944-fe5eca99517a" name="Changes" comment="Add enemy mover">
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Base.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Base.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Base.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Base.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Base.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Base.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Top.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Top.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Top.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Top.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ballisa_Top.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Bolt.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Bolt.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Bolt.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Bolt.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Bolt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Bolt.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_1.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_1.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_1.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_1.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_2.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_2.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_2.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_2.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Gate_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Grass.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Grass.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Grass.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Grass.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Grass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Grass.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ram.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ram.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ram.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ram.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Ram.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Corner.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Corner.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Corner.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Corner.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Corner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Corner.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Straight.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Straight.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Straight.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Straight.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Straight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Road_Straight.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_1.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_1.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_1.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_1.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_2.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_2.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_2.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_2.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_3.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_3.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_3.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_3.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Shore_3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Left.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Left.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Left.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Left.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Left.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Right.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Right.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Right.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Right.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Right.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Standing.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Standing.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Standing.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Standing.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Standing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Standing.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Straight.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Straight.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Straight.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Straight.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Straight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tower_Straight.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Group.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Group.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Group.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Group.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Group.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Large.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Large.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Large.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Large.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Large.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Tree_Large.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_In.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_In.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_In.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_In.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_In.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_In.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Out.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Out.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Out.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Out.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Out.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Out.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Straight.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Straight.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Straight.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Straight.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Straight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Wall_Straight.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Water_Open.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Water_Open.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Water_Open.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Water_Open.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Water_Open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Models/Water_Open.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Bolt.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Bolt.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Gate_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Gate_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Gate_2.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Gate_2.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Grass.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Grass.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Road_Corner.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Road_Corner.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Road_Straight.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Road_Straight.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Shore_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Shore_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Shore_2.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Shore_2.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Shore_3.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Shore_3.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tower_Left.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tower_Left.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tower_Right.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tower_Right.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tower_Standing.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tower_Standing.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tower_Straight.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tower_Straight.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tree_Group.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tree_Group.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tree_Large.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Tree_Large.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Wall_In.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Wall_In.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Wall_Out.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Wall_Out.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Wall_Straight.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Wall_Straight.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Water.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/Prefabs/Water.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/VoxelCastle Asset Preview.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/VoxelCastle/VoxelCastle Asset Preview.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyHealth.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyHealth.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Enemy/Ram.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Enemy/Ram.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadCorner.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadCorner.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadCorner180.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadCorner180.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadCorner270.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadCorner270.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadCorner90.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadCorner90.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadStraight.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadStraight.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadStraight90.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile_RoadStraight90.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tower.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tower/Ballista.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tower/Ballista.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tower/TargetLocator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tower/TargetLocator.cs.meta" afterDir="false" />
+    <list default="true" id="abcdac51-9f98-488d-8944-fe5eca99517a" name="Changes" comment="Add bank">
+      <change afterPath="$PROJECT_DIR$/Assets/Bank.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Bank/Bank.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Bank/Bank.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy/Enemy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy/Enemy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy/ObjectPool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy/ObjectPool.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tower/Tower.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tower/Tower.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Epic tower defense/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Epic tower defense/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/EnemyHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyHealth.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Enemy/EnemyMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyMover.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tiles/CoordinateLabeler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/CoordinateLabeler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/Ram.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Enemy/Ram.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Tiles/Tile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/Tile.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Tiles/Waypoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/Waypoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tower/Ballista.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tower/Ballista.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tower/TargetLocator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tower/TargetLocator.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662558713589</updated>
       <workItem from="1662558736899" duration="1000" />
-      <workItem from="1662558829030" duration="6309000" />
+      <workItem from="1662558829030" duration="12289000" />
     </task>
     <task id="LOCAL-00001" summary="Add empty project">
       <created>1662558892456</created>
@@ -282,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662560953371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add tower placement and enemies">
+      <created>1662568447117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662568447117</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
@@ -304,6 +123,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Add empty project" />
     <MESSAGE value="Add enemy mover" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add enemy mover" />
+    <MESSAGE value="Add tower placement and enemies" />
+    <MESSAGE value="Add bank" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add bank" />
   </component>
 </project>

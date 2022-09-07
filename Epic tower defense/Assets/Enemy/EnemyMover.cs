@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,12 +7,19 @@ public class EnemyMover : MonoBehaviour
 {
     [SerializeField] private List<Waypoint> path;
     [SerializeField] [Range(0, 5)] private float speed = 1f;
-    
-    void Start()
+
+
+    private Enemy _enemy;
+    void OnEnable()
     {
         FindPath();
         ReturnToStart();
         StartCoroutine(FollowPath());
+    }
+
+    private void Start()
+    {
+        _enemy = GetComponent<Enemy>();
     }
 
     void FindPath()
@@ -48,7 +56,12 @@ public class EnemyMover : MonoBehaviour
                 yield return new WaitForEndOfFrame();
             }
         }
-        
-        Destroy(gameObject);
+        ReachTheEnd();
+    }
+
+    private void ReachTheEnd()
+    {
+        gameObject.SetActive(false);
+        _enemy.StealGold();
     }
 }
