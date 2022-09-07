@@ -1,137 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abcdac51-9f98-488d-8944-fe5eca99517a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/DSB.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/DSB.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/backImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/backImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/downImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/downImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/frontImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/frontImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/leftImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/leftImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/rightImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/rightImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/upImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlue/upImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/backImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/backImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/downImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/downImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/frontImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/frontImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/leftImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/leftImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/rightImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/rightImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/upImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceBlueWithPlanet/upImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/DSG.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/DSG.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/backImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/backImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/downImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/downImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/frontImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/frontImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/leftImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/leftImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/rightImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/rightImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/upImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreen/upImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/backImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/backImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/leftImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/leftImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/rightImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/rightImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/upImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceGreenWithPlanet/upImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/DSR.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/DSR.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/backImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/backImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/downImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/downImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/frontImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/frontImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/leftImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/leftImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/rightImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/rightImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/upImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepSpaceRed/upImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/backImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/backImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/downImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/downImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/frontImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/frontImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/leftImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/leftImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/rightImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/rightImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/upImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/DeepsSpaceRedWithPlanet/upImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/StarSkyBox.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/StarSkyBox.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/backImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/backImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/downImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/downImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/frontImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/frontImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/leftImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/leftImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/rightImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/rightImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/upImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/AssetPacks/SkyBox Volume 2/Stars01/upImage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Globalpp.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Globalpp.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Materials/Skybox.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Materials/Skybox.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Prefabs/Post Processing.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Galaxy fight/Assets/Prefabs/Post Processing.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Galaxy fight/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Galaxy fight/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    <list default="true" id="abcdac51-9f98-488d-8944-fe5eca99517a" name="Changes" comment="Add empty project">
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Documentation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Fonts/LiberationSans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Fonts/LiberationSans.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Sprite Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Sprites/EmojiOne.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyMover.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyMover.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/CoordinateLabeler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/CoordinateLabeler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/GroundMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/GroundMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Tile.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Waypoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Waypoint.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Epic tower defense/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Epic tower defense/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CoordinateLabler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CoordinateLabler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tile.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tile.prefab.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ERW7ZbeO19sivPBgH37ntw98QY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="rider.run.widget.enabled.cache" value="false" />
   </component>
@@ -160,17 +221,42 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="abcdac51-9f98-488d-8944-fe5eca99517a" name="Changes" comment="" />
       <created>1662558713589</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662558713589</updated>
       <workItem from="1662558736899" duration="1000" />
+      <workItem from="1662558829030" duration="1857000" />
     </task>
+    <task id="LOCAL-00001" summary="Add empty project">
+      <created>1662558892456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662558892456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add empty project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add empty project" />
   </component>
 </project>
