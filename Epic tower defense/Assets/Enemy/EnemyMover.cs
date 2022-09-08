@@ -3,13 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Enemy))]
 public class EnemyMover : MonoBehaviour
 {
     [SerializeField] private List<Waypoint> path;
     [SerializeField] [Range(0, 5)] private float speed = 1f;
-
-
+    
     private Enemy _enemy;
+    
     void OnEnable()
     {
         FindPath();
@@ -26,11 +27,14 @@ public class EnemyMover : MonoBehaviour
     {
         path.Clear();
         
-        var waypoints = GameObject.FindGameObjectsWithTag("Path");
+        var newPath = GameObject.FindGameObjectWithTag("Path");
 
-        foreach (var waypoint in waypoints)
+        foreach (Transform pathPart in newPath.transform)
         {
-            path.Add(waypoint.GetComponent<Waypoint>());
+            var waypoint = pathPart.GetComponent<Waypoint>();
+            
+            if(waypoint != null) 
+                path.Add(waypoint);
         }
     }
 
