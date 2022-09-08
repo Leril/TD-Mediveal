@@ -2,10 +2,11 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class Tile : MonoBehaviour
 {
-    [SerializeField] private bool isPlaceable;
+    [FormerlySerializedAs("isPlaceable")] [SerializeField] private bool isSuccessfull;
     [SerializeField] private Tower towerPrefab;
 
     private GridManager _gridManager;
@@ -13,7 +14,7 @@ public class Tile : MonoBehaviour
     
     private Vector2Int _coordinates = new Vector2Int();
 
-    public bool IsPlaceable => isPlaceable;
+    public bool IsSuccessfull => isSuccessfull;
 
 
     private void Awake()
@@ -28,7 +29,7 @@ public class Tile : MonoBehaviour
         {
             _coordinates = _gridManager.GetCoordinateFromPosition(transform.position);
 
-            if (!isPlaceable)
+            if (!isSuccessfull)
             {
                 _gridManager.BlockNode(_coordinates);
             }
@@ -40,8 +41,13 @@ public class Tile : MonoBehaviour
         if (_gridManager.getNode(_coordinates).IsWalkable && !_pathfinder.WillBlockPath(_coordinates))
         {
             var isPlaced = towerPrefab.CreateTower(towerPrefab, transform.position);
-            isPlaceable = !isPlaced;
-            _gridManager.BlockNode(_coordinates);
+            isSuccessfull = isPlaced;
+
+            if (isSuccessfull)
+            {
+                _gridManager.BlockNode(_coordinates);
+                _pathfinder.NotifyReceivers();
+            }
         }
     }
 }

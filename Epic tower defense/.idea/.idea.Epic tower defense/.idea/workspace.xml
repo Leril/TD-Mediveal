@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abcdac51-9f98-488d-8944-fe5eca99517a" name="Changes" comment="Additional level design">
-      <change afterPath="$PROJECT_DIR$/Assets/Pathfinding.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Pathfinding/GridManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Pathfinding/GridManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Pathfinding/Node.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Pathfinding/Node.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Pathfinding/Pathfinder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Pathfinding/Pathfinder.cs.meta" afterDir="false" />
+    <list default="true" id="abcdac51-9f98-488d-8944-fe5eca99517a" name="Changes" comment="Add pathfinding">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Epic tower defense/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Epic tower defense/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Enemy/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Enemy/Enemy.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Enemy/EnemyMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Enemy/EnemyMover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pathfinding/GridManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pathfinding/GridManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pathfinding/Pathfinder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pathfinding/Pathfinder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pathfinding/Pathfinder.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pathfinding/Pathfinder.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tiles/CoordinateLabeler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/CoordinateLabeler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tiles/Waypoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/Tile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tiles/Waypoint.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/Tile.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tiles/Tile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/Tile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tiles/Tile.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/Tile.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tower/Ballista.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tower/Ballista.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tower/Tower.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tower/Tower.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +27,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/lobja/OneDrive/Desktop/Unity work/TD-Mediveal/TD-Mediveal/Epic tower defense/Assets/Tower/Ballista.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/lobja/OneDrive/Desktop/Unity work/TD-Mediveal/TD-Mediveal/Epic tower defense/Assets/Tiles/CoordinateLabeler.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,7 +82,7 @@
       <updated>1662558713589</updated>
       <workItem from="1662558736899" duration="1000" />
       <workItem from="1662558829030" duration="12356000" />
-      <workItem from="1662636962015" duration="14033000" />
+      <workItem from="1662636962015" duration="17071000" />
     </task>
     <task id="LOCAL-00001" summary="Add empty project">
       <created>1662558892456</created>
@@ -122,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662641650970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add pathfinding">
+      <created>1662659008781</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662659008781</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
@@ -147,6 +151,7 @@
     <MESSAGE value="Add tower placement and enemies" />
     <MESSAGE value="Add bank" />
     <MESSAGE value="Additional level design" />
-    <option name="LAST_COMMIT_MESSAGE" value="Additional level design" />
+    <MESSAGE value="Add pathfinding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pathfinding" />
   </component>
 </project>

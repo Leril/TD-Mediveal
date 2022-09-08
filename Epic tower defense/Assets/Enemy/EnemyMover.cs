@@ -8,7 +8,7 @@ public class EnemyMover : MonoBehaviour
 {
     [SerializeField] [Range(0, 5)] private float speed = 1f;
 
-    private List<Node> _path;
+    private List<Node> _path = new List<Node>();
     private Enemy _enemy;
     
     private GridManager _gridManager;
@@ -23,16 +23,20 @@ public class EnemyMover : MonoBehaviour
 
     void OnEnable()
     {
-        FindPath();
         ReturnToStart();
-        StartCoroutine(FollowPath());
+        RecalculatePath(true);
     }
 
-    void FindPath()
+    void RecalculatePath(bool resetPath)
     {
+        var coordinates = resetPath ? _pathfinder.StartCoordinates : _gridManager.GetCoordinateFromPosition(transform.position);
+        
+        StopAllCoroutines();
+        
         _path.Clear();
-
-        _path = _pathfinder.GetNewPath();
+        _path = _pathfinder.GetNewPath(coordinates);
+        
+        StartCoroutine(FollowPath());
     }
 
     private void ReturnToStart()
@@ -42,7 +46,7 @@ public class EnemyMover : MonoBehaviour
 
     private IEnumerator FollowPath()
     {
-        for (int i = 0; i < _path.Count; i++)
+        for (int i = 1; i < _path.Count; i++)
         {
             var startPosition = transform.position;
             var endPosition = _gridManager.GetPositionFromCoordinate(_path[i].Coordinates);
